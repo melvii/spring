@@ -42,7 +42,7 @@
 		</dependency>
     </dependencies>
     
-    <bulid>
+    <build>
 	  <finalName>spring-rest-demo</finalName>
 		  <pluginManagement> 
 		  		<plugins>
@@ -54,6 +54,6 @@
 		  			</plugin>
 		  		</plugins>
 		  </pluginManagement>
-  </bulid>
+  </build>
   
 </project>
